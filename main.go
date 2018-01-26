@@ -1,9 +1,8 @@
 package main
 
-//import "net/http"
-import "flag"
-import "fmt"
 import (
+	"flag"
+	"fmt"
 	"strings"
 	"net/http"
 	"os"
